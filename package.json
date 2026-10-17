@@ -1,14 +1,14 @@
 {
-  "name": "secrets-management-for-devops-examples",
+  "name": "encryption-at-rest-example",
   "version": "0.0.0",
-  "description": "Examples for Secrets Management for DevOps in Software Engineering",
+  "description": "Example of Encryption at Rest for DevOps in Software Engineering",
   "author": "Richard Tong",
   "license": "CFOSS",
   "repository": {
     "type": "git",
-    "url": "github:richytong/secrets-management-for-devops-examples"
+    "url": "github:richytong/encryption-at-rest-example"
   },
-  "homepage": "https://github.com/richytong/secrets-management-for-devops-examples",
+  "homepage": "https://github.com/richytong/encryption-at-rest-example",
   "scripts": {
     "test": "node test.js"
   },
