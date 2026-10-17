@@ -1,0 +1,19 @@
+{
+  "name": "secrets-management-for-devops-examples",
+  "version": "0.0.0",
+  "description": "Examples for Secrets Management for DevOps in Software Engineering",
+  "author": "Richard Tong",
+  "license": "CFOSS",
+  "repository": {
+    "type": "git",
+    "url": "github:richytong/secrets-management-for-devops-examples"
+  },
+  "homepage": "https://github.com/richytong/secrets-management-for-devops-examples",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "presidium": "^4.4.1",
+    "rubico": "^2.19.5"
+  }
+}
