@@ -1,4 +1,4 @@
-# Example of Encryption at Rest for DevOps in Software Engineering
+# Encryption at Rest Example for DevOps in Software Engineering
 
 To run the code in the example of encryption at rest, follow these instructions.
 
